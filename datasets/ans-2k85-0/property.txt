@@ -1,0 +1,1 @@
+{"most_relation_type": "ans", "n_entity": 2100, "m_relation": 85, "m_most": 68, "m_other": 17, "t_total": 12000, "t_most": 8400, "t_other": 3600, "is_save": true, "valid_nums": 500, "test_nums": 500, "triplets": 12000, "entities": 2100, "relations": 85, "train_triplets": 11000, "valid_triplets": 500, "test_triplets": 500}
